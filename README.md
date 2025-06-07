@@ -1,4 +1,4 @@
-# Arena Social Tipping Bot Miniapp
+# TRACERENA
 
 A simple dApp to tip anyone AVAX on the Avalanche C-Chain.  
 Connect your wallet, enter a recipient's address and amount, and send tips instantly.

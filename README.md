@@ -1,12 +1,12 @@
-# TRACERENA
+# Bingnition 
 
-A simple dApp to tip anyone AVAX on the Avalanche C-Chain.  
-Connect your wallet, enter a recipient's address and amount, and send tips instantly.
+I-native search engine designed to deliver personalized, contextual, and privacy-first results at lightning speed.
+Build via Believe App.
 
 ## Features
 
-- Connect MetaMask or Core wallet (via RainbowKit/Wagmi)
-- Enter any Avalanche address and AVAX amount
+- Connect Phantom or other SOL wallets.
+- Enter any Solana address and SOL amount
 - Send tip directly (no backend, no smart contract needed)
 - Modern, fast React + Vite setup
 
